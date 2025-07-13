@@ -1,7 +1,7 @@
 ﻿fastapi
 uvicorn
 transformers==4.40.1
-torch==2.1.0
+torch==2.2.0
 --find-links https://download.pytorch.org/whl/cpu/torch_stable.html
 pandas
 neo4j
