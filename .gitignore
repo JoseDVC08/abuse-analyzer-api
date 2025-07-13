@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pkl
+*.pt
+*.bin
+*.cache/
+models/
